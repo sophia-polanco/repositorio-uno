@@ -1,12 +1,12 @@
 # repositorio-uno
-no entiendo nada 
+~~ola mundo no entiendo nada 
 
-## ola mundo
-**mami que tu quiere**
+## mami que ti quiere
+**aqui llego tu tiburon**
 
-### aqui llego tu tiburon
-**yo quiero perriarte**
+### yo quiero perriarte
+**y fumarme un blon**
 
-- peo
-- peo
+- uno 
+- dos
 
