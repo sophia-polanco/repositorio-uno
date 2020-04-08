@@ -1,11 +1,11 @@
 # repositorio-uno
 ~~ola mundo no entiendo nada~~
 
-## mami que tu quiere
-**aqui llego tu tiburon**
+## subtitulo markdown
+**negrita**
 
-### yo quiero perriarte
-**y fumarme un blon**
+### mami que tu quiere
+**aqui llego tu tiburon**
 
 - uno 
 - dos
