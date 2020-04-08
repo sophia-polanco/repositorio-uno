@@ -1,5 +1,5 @@
 # repositorio-uno
-~~ola mundo no entiendo nada ~~
+~~ola mundo no entiendo nada~~
 
 ## mami que tu quiere
 **aqui llego tu tiburon**
