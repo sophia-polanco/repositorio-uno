@@ -1,5 +1,6 @@
 # repositorio-uno
 no entiendo nada ola mundo 
 
-**hola**
-wena ql
+##subtitulo markdown##
+**mami que tu quiere**
+aqui llego tu tiburon 
